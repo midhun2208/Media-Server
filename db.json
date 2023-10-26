@@ -16,5 +16,16 @@
       "id": 2
     }
   ],
-  "category": []
+  "category": [
+    {
+      "categoryName": "movie",
+      "allvideo":[],
+      "id": 1
+    },
+    {
+      "categoryName": "Video",
+      "allvideo":[],
+      "id": 2
+    }
+  ]
 }
