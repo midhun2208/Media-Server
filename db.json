@@ -19,12 +19,12 @@
   "category": [
     {
       "categoryName": "movie",
-      "allvideo":[],
+      "allvideos":[],
       "id": 1
     },
     {
       "categoryName": "Video",
-      "allvideo":[],
+      "allvideos":[],
       "id": 2
     }
   ]
